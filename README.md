@@ -1,2 +1,2 @@
-# rocketchat_api_client
+# Rocket.Chat API Client
 A python API client for Rocket.Chat
